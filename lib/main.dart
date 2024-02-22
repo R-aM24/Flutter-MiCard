@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
               style: TextStyle(
                   color: Colors.grey[200],
                   fontFamily: 'Nunito',
-                  fontWeight: FontWeight.w300,
+                  fontWeight: FontWeight.w600,
                   fontSize: 15,
                   letterSpacing: 2.5),
             ),
