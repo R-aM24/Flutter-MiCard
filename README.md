@@ -10,5 +10,5 @@ This app helps in understanding concepts like
 * margins and padding
 * styling
 
-### Screenshot
-![img_1.png](img_1.png)
+### Screenshot:
+![img_2.png](img_2.png)
