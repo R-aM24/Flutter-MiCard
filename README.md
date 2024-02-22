@@ -1,16 +1,14 @@
 # micard
+## Developer: Self Proclaimed Developer
+### Team: AB Sai RaM.
+ This is a Flutter App that displays your information like your Picture, name, skills, phone number and email.
 
-A new Flutter project.
+This app helps in understanding concepts like
+* safezoe
+* cards
+* rows and columns
+* margins and padding
+* styling
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshot
+![img_1.png](img_1.png)
